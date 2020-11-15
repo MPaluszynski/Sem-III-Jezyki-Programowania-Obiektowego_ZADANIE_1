@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1604182285 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1\main.cpp
+	<iostream>
+	"liczba.h"
+	"complex.h"
+
+1604171715 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1\header.h
+	<iostream>
+
+1604184353 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1\body.cpp
+	<iostream>
+	"complex.h"
+	<cmath>
+
+1604180413 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1\liczba.h
+	<iostream>
+
+1604175365 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1\complex.h
+	"liczba.h"
+	<ostream>
+
+1604837192 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1 — final\main.cpp
+	<iostream>
+	"liczba.h"
+	"complex.h"
+
+1604180413 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1 — final\liczba.h
+	<iostream>
+
+1604836975 d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1 — final\complex.h
+	"liczba.h"
+	<ostream>
+
+1604837118 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1 — final\complex.cpp
+	<iostream>
+	"complex.h"
+	<cmath>
+
+1604836847 source:d:\studia\informatyka\sem3\jêzyki programowania obiektowego\laboratorium\lab1 (zamkiête)\laboratorium1 — final\liczba.cpp
+	<iostream>
+	"complex.h"
+	<cmath>
+
